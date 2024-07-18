@@ -1,6 +1,7 @@
 # Internship-At-Amphenol-Fci
 Completed a five day internship at Amphenol fci
 * First day 
+
 Registeration of the our information at HR department at Amphenol Fci. it took 3 to 4 hours and after the registeration we where assigned to maintenances department. The HR department personal took us to the maintenances department and introduced to the head of maintenances department. The head of maintenances department assigned us to different sub branch of the maintenance department. I was assigned to the uitity department of the maintenances department. Each day we where assigned different personal to guided us during the Internship period. Afternoon the industries electrical connection and wiring to provied the power for the whole factory was introduced.All specification are provied.
 
 *  Second Day 
