@@ -1,0 +1,12 @@
+Details About the Electric Power System
+* Underground power line from the KSEB.
+* Three RMU units to divide the electricity to the three plants.
+
+## * Plant 1 
+* Three HT panels divide the power to Five different transformers.
+* The power from the transformers it taken to the MV panel.
+* There are 9 MV panels and each MV panles have a capacitor panel.
+* The capacitor panel is used to remove harmonic from the A\C current and to have a contant capacitive load.
+* The MV panel have a KSEB connection and a coupled diesel generator.
+* There are 7 diesel generator.
+* The MV panels are sub divide to power specific part of the plant
