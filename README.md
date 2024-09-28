@@ -12,7 +12,7 @@ We reported to the respective departments and were assigned to each respective o
 
 *  Third Day 
     
-Three Blower out of the Seven had an oil leakage and the and the oil leakage and the leakage was fixed and a new oil was changed to. Afternoon a fan motor had a burned its coil, and had to repair it.
+For the third day in the utility department, we were assigned to check the blower area. Three out of the seven blowers had an oil leak. The leaks were fixed, and the new oil was changed. In the afternoon, a fan motor burned its coil and had to be repaired. In the molding department, one of the molding machines was damaged and was being repaired. The stamping department was assembling a new stand for the stamping machine.
 
 *  Fourth Day 
     
